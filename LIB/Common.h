@@ -1,0 +1,1 @@
+bool Kdelta(int i, int j);
