@@ -83,3 +83,5 @@ VecVec SOR_Method(Matrix A, Vector b, Vector x0, double w) {
 
 	return FixedPointLinear(T, c, x0, A.getn(), true);
 }
+
+
